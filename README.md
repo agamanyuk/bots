@@ -16,6 +16,7 @@ Table of Contents
 - [Bot Stores](#bot-stores)
 - [Tutorials](#tutorials)
 - [Communities](#communities)
+- [Developers](#developers)
 
 ## Platform Documentation
 * [Facebook messenger](https://developers.facebook.com/products/messenger/)
@@ -79,7 +80,7 @@ Table of Contents
 * [Go](https://github.com/tucnak/telebot)
 
 ## Bot Stores
-* [ChatBottle](https://chatbottle.co/) - Chatbots search engine
+* [ChatBottle](https://chatbottle.co/) - Chatbots Search Engine
 * [botlist](https://botlist.co/) - An App Store For Bots.
 * [Slack Store](https://decentralizedweb.slack.com/apps) - The official Slack bot store.
 * [Telegram Store](https://storebot.me/) - The official Telegram bot store.
@@ -108,6 +109,9 @@ Table of Contents
 ## Conferences
 * [ChatbotConf] (https://chatbotconf.com/)
 * [Talkabot] (https://talkabot.ai/)
+
+## Developers
+* [BotMakers] (https://botmakers.net/) - The best place to hire chabot developers
 
 ## License
 
